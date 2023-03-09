@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">First_Page</string>
+    <string name="Login">الدخول باستخدام بياناتك</string>
+    <string name="Login_another_user">الدخول بمستخدم اخر</string>
+    <string name="Find_us">اين تجدنا</string>
+    <string name="Contact_Us"> تواصل معنا</string>
+    <string name="Baitak_Rewards">مكافات بيتك</string>
+    <string name="Offers">عروضنا</string>
+    <string name="navi_close">Close</string>
+    <string name="navi_open">open</string>
+    <string name="kfh_auto">اوتو بيتك</string>
+    <string name="our_offers">عروضنا</string>
+    <string name="exchange">محول العملات</string>
+    <string name="calculator">حاسبتنا</string>
+    <string name="kfh_assistant">بيتك للمساعدة</string>
+    <string name="book_appointament">احجز موعد</string>
+    <string name="digital_wallets">المحافظ الرقمية</string>
+    <string name="baitak_rewards">مكافات بيتك</string>
+    <string name="contact_us"> تواصل معنا</string>
+    <string name="change_lang">تغير اللغه</string>
+    <string name="submit">تسليم</string>
+
+
+</resources>

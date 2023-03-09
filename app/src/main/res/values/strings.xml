@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">First_Page</string>
+    <string name="Login">Login using credentials</string>
+    <string name="Login_another_user">Login with another user</string>
+    <string name="Find_us">Find Us</string>
+    <string name="Contact_Us">Contact Us</string>
+    <string name="Baitak_Rewards">Baitak Rewards</string>
+    <string name="Offers">Offers</string>
+    <string name="navi_close">Close</string>
+    <string name="navi_open">open</string>
+    <string name="kfh_auto">KFH Auto</string>
+    <string name="our_offers">Our Offers</string>
+    <string name="exchange">Exchange</string>
+    <string name="calculator">Calculator</string>
+    <string name="kfh_assistant">KFH Assistant</string>
+    <string name="book_appointament">Book Appointament</string>
+    <string name="digital_wallets">Digital Wallets</string>
+    <string name="baitak_rewards">Baitak Rewards</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="change_lang">change language</string>
+    <string name="submit">Submit</string>
+    <array name="languages">
+        <item>العربية</item>
+        <item>English</item>
+    </array>
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuChange"
+        android:title="@string/change_lang"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_manage"
+        />
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/kfh_auto"
+            android:icon="@drawable/kfh_auto"
+            android:title="@string/kfh_auto"></item>
+        <item
+            android:id="@+id/Our_offers"
+            android:icon="@drawable/offer"
+            android:title="@string/our_offers"></item>
+        <item
+            android:id="@+id/find_us"
+            android:icon="@drawable/location"
+            android:title="@string/Find_us"></item>
+        <item
+            android:id="@+id/Exchange"
+            android:icon="@drawable/exchange"
+            android:title="@string/exchange"></item>
+        <item
+            android:id="@+id/Calculator"
+            android:icon="@drawable/calculate"
+            android:title="@string/calculator"></item>
+        <item
+            android:id="@+id/KFH_Assistant"
+            android:icon="@drawable/chat"
+            android:title="@string/kfh_assistant"></item>
+        <item
+            android:id="@+id/book_appointament"
+            android:icon="@drawable/appointment"
+            android:title="@string/book_appointament"></item>
+        <item
+            android:id="@+id/Digital_Wallets"
+            android:icon="@drawable/wallet"
+            android:title="@string/digital_wallets"></item>
+        <item
+            android:id="@+id/Baitak_Rewards"
+            android:icon="@drawable/credit_card"
+            android:title="@string/baitak_rewards"></item>
+        <item
+            android:id="@+id/Contact_Us"
+            android:icon="@drawable/contact_icon"
+            android:title="@string/contact_us"></item>
+    </group>
+
+</menu>
